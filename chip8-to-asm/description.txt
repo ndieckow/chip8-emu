@@ -1,0 +1,2 @@
+Converts a CHIP8 rom into CHIP8 assembly code.
+That way, the code is more easily understandable for non-machines.
